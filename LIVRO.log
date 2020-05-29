@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2020.3.26)  15 MAY 2020 13:59
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2020.3.26)  29 MAY 2020 15:13
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.085 seconds
+luaotfload | main : initialization completed in 0.098 seconds
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2018/12/12 v3.7h configurable book, report, article docum
 ent class
@@ -1649,37 +1649,52 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 ]
 (./LIVRO.toc) [5]
 \openout2 = INPUTS.aux
- (./INPUTS.tex (./ORIGINAIS.tex
+ (./INPUTS.tex (./ORIGINAIS.tex [6
+
+
+
+]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 23.
+(Font)              <10.95> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 23.
+(Font)              <8> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 23.
+(Font)              <6> on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
-) [6
+) [7] [8] [9
 
+]
+[10
 
-] [7] [8]
-[9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23]
-[24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38]
-[39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53]
-[54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68]
-[69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83]
-[84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98]
-[99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111]
+] [11] [12] [13
+
+] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24]
+[25] [26] [27] [28] [29
+
+] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39
+
+]
+[40] [41] [42] [43] [44] [45] [46] [47
+
+] [48] [49] [50] [51] [52] [53] [54]
+[55] [56] [57] [58] [59
+
+] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69]
+[70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84]
+[85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4395.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4395.
+
+[100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111]
 [112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123]
-[124] [125] [126] [127] [128] [129] [130] [131] [132] [133] [134])) [135]
-
+[124] [125] [126] [127] [128])) [129] 
 AED: lastpage setting LastPage
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 54.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 54.
-[136
+[130
 
 
 ]
@@ -1693,15 +1708,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 27273 strings out of 494291
+ 27300 strings out of 494291
  1819444,953878 words of node,token memory allocated
- 1778731 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 1 dir, 2 glue, 3 kern, 1 penalty, 244187 glyph, 298
-69 attribute, 193 glue_spec, 4269 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:3,2:921,3:99,4:67,5:402,6:30,7:2909,8:1,9:287,10:26,11:426
- 30333 multiletter control sequences out of 65536+600000
- 97 fonts using 18449391 bytes
- 57i,14n,82p,1354b,517s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 1743848 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 1 dir, 2 glue, 3 kern, 1 penalty, 241958 glyph, 214
+34 attribute, 193 glue_spec, 3064 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:4,2:921,3:82,4:66,5:342,6:31,7:2317,8:1,9:290,10:27,11:513
+ 30354 multiletter control sequences out of 65536+600000
+ 101 fonts using 20109903 bytes
+ 57i,14n,82p,1354b,446s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/sha
 re/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf>{/usr/
 share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-d
@@ -1711,10 +1726,10 @@ xmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/latxfont/lcirclew.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (136 pages, 511162 bytes).
+Output written on LIVRO.pdf (130 pages, 490603 bytes).
 
-PDF statistics: 471 PDF objects out of 1000 (max. 8388607)
- 316 compressed objects within 4 object streams
+PDF statistics: 452 PDF objects out of 1000 (max. 8388607)
+ 303 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

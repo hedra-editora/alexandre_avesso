@@ -1,20 +1,16 @@
 \babel@toc {brazilian}{}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {subsection}{PREFÁCIO}{6}% 
-\contentsline {subsection}{QUARTOS ALUGADOS}{7}% 
-\contentsline {subsection}{QUARTO ESCURO}{25}% 
-\contentsline {subsection}{* * *}{28}% 
-\contentsline {subsection}{* * *}{30}% 
-\contentsline {subsection}{* * *}{32}% 
-\contentsline {subsection}{* * *}{35}% 
-\contentsline {subsection}{QUEM ANDA A COMER DO MEU PRATO?}{36}% 
-\contentsline {subsection}{SUL}{44}% 
-\contentsline {subsection}{VAGA DE FUNDO}{57}% 
-\contentsline {subsection}{VOI CHE SAPETE}{70}% 
-\contentsline {subsection}{O RAMO DOURADO 2012}{92}% 
-\contentsline {subsection}{RUA DA VELHA LANTERNA}{99}% 
-\contentsline {subsection}{O MESMO POETA}{121}% 
-\contentsline {subsection}{* * *}{125}% 
-\contentsline {subsection}{* * *}{128}% 
-\contentsline {subsection}{* * *}{131}% 
+\contentsline {chapter}{Prefácio}{7}% 
+\contentsline {section}{Um livro que se abre ao inesperado e ao acidental}{7}% 
+\contentsline {chapter}{}{9}% 
+\contentsline {part}{Quartos alugados}{11}% 
+\contentsline {chapter}{In absentia}{13}% 
+\contentsline {chapter}{Quarto escuro}{29}% 
+\contentsline {chapter}{Quem anda a comer do meu prato?}{39}% 
+\contentsline {chapter}{Sul}{47}% 
+\contentsline {chapter}{Vaga de fundo}{59}% 
+\contentsline {subsection}{VOI CHE SAPETE}{71}% 
+\contentsline {subsection}{O RAMO DOURADO 2012}{90}% 
+\contentsline {subsection}{RUA DA VELHA LANTERNA}{97}% 
+\contentsline {subsection}{O MESMO POETA}{117}% 
 \contentsfinish 
