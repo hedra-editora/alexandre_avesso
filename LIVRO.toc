@@ -9,8 +9,8 @@
 \contentsline {chapter}{Quem anda a comer do meu prato?}{39}% 
 \contentsline {chapter}{Sul}{47}% 
 \contentsline {chapter}{Vaga de fundo}{59}% 
-\contentsline {subsection}{VOI CHE SAPETE}{71}% 
-\contentsline {subsection}{O RAMO DOURADO 2012}{90}% 
-\contentsline {subsection}{RUA DA VELHA LANTERNA}{97}% 
-\contentsline {subsection}{O MESMO POETA}{117}% 
+\contentsline {chapter}{Voi che sapete}{71}% 
+\contentsline {chapter}{O ramo dourado 2012\\ -- Uma nova esperança}{91}% 
+\contentsline {chapter}{Rua da velha lanterna}{99}% 
+\contentsline {chapter}{O mesmo poeta}{121}% 
 \contentsfinish 

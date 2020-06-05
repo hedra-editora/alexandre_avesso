@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2020.3.26)  29 MAY 2020 15:13
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2020.3.26)  5 JUN 2020 13:53
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.098 seconds
+luaotfload | main : initialization completed in 0.089 seconds
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2018/12/12 v3.7h configurable book, report, article docum
 ent class
@@ -1683,21 +1683,33 @@ RS)
 [55] [56] [57] [58] [59
 
 ] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69]
-[70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84]
-[85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 4395.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 4395.
+[70] [71
 
-[100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111]
-[112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123]
-[124] [125] [126] [127] [128])) [129] 
-AED: lastpage setting LastPage
-[130
+] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84]
+[85] [86] [87] [88] [89] [90]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 3943.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3943.
+ [91
 
+] [92] [93] [94] [95] [96] [97] [98
 
 ]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4252.
+ [99]
+[100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111]
+[112] [113] [114] [115] [116] [117] [118] [119] [120
+
+] [121] [122] [123]
+[124] [125] [126] [127] [128] [129] [130] [131])) [132]
+
+AED: lastpage setting LastPage
+[133
+
+
+] [134]
 \tf@toc=\write10
 
 \openout10 = LIVRO.toc
@@ -1708,14 +1720,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 27300 strings out of 494291
+ 27331 strings out of 494291
  1819444,953878 words of node,token memory allocated
- 1743848 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 1 dir, 2 glue, 3 kern, 1 penalty, 241958 glyph, 214
-34 attribute, 193 glue_spec, 3064 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:4,2:921,3:82,4:66,5:342,6:31,7:2317,8:1,9:290,10:27,11:513
- 30354 multiletter control sequences out of 65536+600000
- 101 fonts using 20109903 bytes
+ 1748556 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 1 dir, 3 glue, 3 kern, 1 penalty, 242369 glyph, 222
+32 attribute, 193 glue_spec, 3178 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:2,2:905,3:81,4:65,5:332,6:30,7:1744,8:2,9:290,10:27,11:514
+ 30373 multiletter control sequences out of 65536+600000
+ 108 fonts using 20805059 bytes
  57i,14n,82p,1354b,446s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/sha
 re/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf>{/usr/
@@ -1726,10 +1738,10 @@ xmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/latxfont/lcirclew.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (130 pages, 490603 bytes).
+Output written on LIVRO.pdf (134 pages, 493801 bytes).
 
-PDF statistics: 452 PDF objects out of 1000 (max. 8388607)
- 303 compressed objects within 4 object streams
+PDF statistics: 465 PDF objects out of 1000 (max. 8388607)
+ 312 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
