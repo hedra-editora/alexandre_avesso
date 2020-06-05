@@ -5,12 +5,12 @@
 \contentsline {chapter}{}{9}% 
 \contentsline {part}{Quartos alugados}{11}% 
 \contentsline {chapter}{In absentia}{13}% 
-\contentsline {chapter}{Quarto escuro}{29}% 
-\contentsline {chapter}{Quem anda a comer do meu prato?}{39}% 
-\contentsline {chapter}{Sul}{47}% 
-\contentsline {chapter}{Vaga de fundo}{59}% 
-\contentsline {chapter}{Voi che sapete}{71}% 
-\contentsline {chapter}{O ramo dourado 2012\\ -- Uma nova esperança}{91}% 
-\contentsline {chapter}{Rua da velha lanterna}{99}% 
-\contentsline {chapter}{O mesmo poeta}{121}% 
+\contentsline {chapter}{Quarto escuro}{31}% 
+\contentsline {chapter}{Quem anda a comer do meu prato?}{43}% 
+\contentsline {chapter}{Sul}{53}% 
+\contentsline {chapter}{Vaga de fundo}{67}% 
+\contentsline {chapter}{Voi che sapete}{81}% 
+\contentsline {chapter}{O ramo dourado 2012\\ -- Uma nova esperança}{103}% 
+\contentsline {chapter}{Rua da velha lanterna}{111}% 
+\contentsline {chapter}{O mesmo poeta}{133}% 
 \contentsfinish 
