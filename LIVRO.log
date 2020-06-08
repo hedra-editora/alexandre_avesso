@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2020.3.26)  5 JUN 2020 16:10
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2020.3.26)  8 JUN 2020 14:05
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.072 seconds
+luaotfload | main : initialization completed in 0.078 seconds
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2018/12/12 v3.7h configurable book, report, article docum
 ent class
@@ -2021,8 +2021,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [124] [125] [126] [127] [128] [129] [130] [131] [132] [133
 
 ] [134] [135]
-[136] [137] [138] [139] [140] [141] [142] [143] [144])) [145]
+[136] [137] [138] [139] [140] [141] [142] [143]
+Overfull \vbox (12.66547pt too high) has occurred while \output is active []
 
+
+[144])) [145] 
 AED: lastpage setting LastPage
 [146
 
@@ -2038,15 +2041,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 27399 strings out of 494291
- 1819467,953878 words of node,token memory allocated
- 1754526 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 1 dir, 3 glue, 3 kern, 1 penalty, 242639 glyph, 240
-17 attribute, 193 glue_spec, 3433 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:7,2:921,3:85,4:61,5:1164,6:33,7:2567,8:2,9:291,10:25,11:427
- 30385 multiletter control sequences out of 65536+600000
- 117 fonts using 15565263 bytes
- 57i,14n,82p,1354b,446s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 27402 strings out of 494291
+ 1819444,953878 words of node,token memory allocated
+ 1759986 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 1 dir, 3 glue, 3 kern, 1 penalty, 243387 glyph, 241
+15 attribute, 193 glue_spec, 3447 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:3,2:921,3:106,4:63,5:1160,6:33,7:2576,8:2,9:291,10:25,11:431
+ 30388 multiletter control sequences out of 65536+600000
+ 117 fonts using 15565231 bytes
+ 57i,14n,82p,1354b,449s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ed
 itorial-luca/texmf/tex/fonts/utopia-std-italic.otf>{/usr/share/texlive/texmf-dis
 t/fonts/enc/dvips/base/8r.enc}</home/editorial-luca/texmf/tex/fonts/utopia-std.o
@@ -2055,7 +2058,7 @@ tf></home/editorial-luca/texmf/tex/fonts/utopia-std-bold.otf></usr/share/texlive
 mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/latxfont/lcirclew.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (146 pages, 535246 bytes).
+Output written on LIVRO.pdf (146 pages, 534640 bytes).
 
 PDF statistics: 502 PDF objects out of 1000 (max. 8388607)
  337 compressed objects within 4 object streams
