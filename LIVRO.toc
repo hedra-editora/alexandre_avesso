@@ -1,15 +1,15 @@
 \babel@toc {brazilian}{}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{Prefácio}{7}% 
-\contentsline {section}{Um livro que se abre ao\penalty -\@M inesperado e ao acidental}{7}% 
-\contentsline {part}{Quartos alugados}{11}% 
-\contentsline {chapter}{In absentia}{13}% 
-\contentsline {chapter}{Quarto escuro}{31}% 
-\contentsline {chapter}{Quem anda a comer do meu prato?}{43}% 
-\contentsline {chapter}{Sul}{51}% 
-\contentsline {chapter}{Vaga de fundo}{65}% 
-\contentsline {chapter}{Voi che sapete}{79}% 
-\contentsline {chapter}{O ramo dourado 2012 --- Uma nova esperança}{101}% 
-\contentsline {chapter}{Rua da velha lanterna}{109}% 
-\contentsline {chapter}{O mesmo poeta}{131}% 
+\contentsline {chapter}{Prefácio}{7}
+\contentsline {section}{Um livro que se abre ao\penalty -\@M inesperado e ao acidental}{7}
+\contentsline {part}{Quartos alugados}{11}
+\contentsline {chapter}{In absentia}{13}
+\contentsline {chapter}{Quarto escuro}{31}
+\contentsline {chapter}{Quem anda a comer do meu prato?}{43}
+\contentsline {chapter}{Sul}{51}
+\contentsline {chapter}{Vaga de fundo}{65}
+\contentsline {chapter}{Voi che sapete}{79}
+\contentsline {chapter}{O ramo dourado 2012 --- Uma nova esperança}{101}
+\contentsline {chapter}{Rua da velha lanterna}{109}
+\contentsline {chapter}{O mesmo poeta}{131}
 \contentsfinish 
